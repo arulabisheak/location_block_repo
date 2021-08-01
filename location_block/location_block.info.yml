@@ -1,0 +1,6 @@
+name: Location Block
+type: module
+core: 8.x
+description: Creates blocks which is used to dislplay locaiton based on ACF values.
+package: Custom
+core_version_requirement: ^8 || ^9

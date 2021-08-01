@@ -1,0 +1,4 @@
+services:
+  location_block.time_services:
+    class: Drupal\location_block\Services\TimeService
+    arguments: []

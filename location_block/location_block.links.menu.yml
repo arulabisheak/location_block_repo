@@ -1,0 +1,7 @@
+location_block.location_settings:
+  title: 'Location Configuration'
+  route_name: location_block.location_settings
+  description: 'Configuration for the location'
+  parent: system.admin_config_workflow
+  weight: 99
+
